@@ -1,4 +1,4 @@
-# 📊 Crypto Trading Bots 2025 | Automated Trading on Binance, Bybit & DEX  
+# 📊 Crypto Trading Bots 2026 | Automated Trading on Binance, Bybit & DEX  
 
 Take your trading to the next level with our **all-in-one automated crypto trading bots**.  
 Supports **Binance, Bybit, KuCoin, OKX, Uniswap, PancakeSwap, Raydium** and more.  
